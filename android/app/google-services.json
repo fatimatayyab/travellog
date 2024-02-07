@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "406434833992",
+    "project_id": "travellog3",
+    "storage_bucket": "travellog3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406434833992:android:2f7b9b8442b8bfaf241a7d",
+        "android_client_info": {
+          "package_name": "com.example.travellog3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406434833992-dfijnc9guhed6fps3fuqjep4fteaqas4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travellog3",
+            "certificate_hash": "86506336139e152d23f38e7b0e72864c7837932b"
+          }
+        },
+        {
+          "client_id": "406434833992-ucdcelifm5tp9td84su568jprjrj566n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJdRMdvMnqU2FxnG8r4KTqHj9Npa1G3VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406434833992-ucdcelifm5tp9td84su568jprjrj566n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406434833992-9mdk3e102v1sq587naim4l61geo620pb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travellog3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
